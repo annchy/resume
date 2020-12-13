@@ -1,0 +1,144 @@
+.container h1 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+    color: #f5f6fa;
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    text-decoration: none
+}
+
+.email a {
+    font-size: 23px;
+    color: #f5f6fa;
+    position: absolute;
+    top: 25%;
+    left: 41%;
+    transform: translate(-50%, -50%);
+}
+
+.phnum a {
+    font-size: 23px;
+    color: #f5f6fa;
+    position: absolute;
+    top: 25%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+
+}
+
+.linkedin a {
+    font-size: 23px;
+    color: #f5f6fa;
+    position: absolute;
+    top: 31%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.github a {
+    font-size: 23px;
+    color: #f5f6fa;
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.profile h3 {
+    margin: 50px;
+    padding: 0px;
+    font-size: 27px;
+    color: #0E0E0D;
+
+}
+
+.profile p{
+    margin: 50px;
+    padding: 0px;
+    font-size: 25px;
+    color: #0E0E0D;
+}
+
+.education h3{
+    margin: 50px;
+    padding: 0px;
+    font-size: 27px;
+    color: #0E0E0D;  
+}
+
+.education p{
+    margin: 50px;
+    padding: 0px;
+    font-size: 25px;
+    color: #0E0E0D;  
+}
+
+.experience h3{
+    margin: 50px;
+    padding: 0px;
+    font-size: 27px;
+    color: #0E0E0D;  
+}
+
+.experience p{
+    margin: 50px;
+    padding: 0px;
+    font-size: 25px;
+    color: #0E0E0D;  
+}
+
+.skills h3{
+    margin: 50px;
+    padding: 0px;
+    font-size: 27px;
+    color: #0E0E0D;  
+}
+
+.skills table{
+    margin: 50px;
+    padding: 0px;
+    font-size: 25px;
+    color: #0E0E0D;
+    border-spacing: 15px;
+}
+
+.projects strong{
+    margin: 50px;
+    padding: 0px;
+    font-size: 26px;
+    color: #0E0E0D; 
+}
+
+.projects p{
+    margin: 50px;
+    padding: 10px;
+    font-size: 25px;
+    color: #0E0E0D; 
+}
+
+.footer h1 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: #f5f6fa;
+    position: absolute;
+    bottom: -605%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer p{
+    font-size: 23px;
+    color: #f5f6fa;
+    position: absolute;
+    bottom: -617%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    
+}
